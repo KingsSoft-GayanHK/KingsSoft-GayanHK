@@ -26,8 +26,8 @@
 </div>
 
 <div align="center" style="margin-top:10px;">
-  <img src="https://komarev.com/ghpvc/?username=KingsSoft-GyanHK&label=Profile%20views&style=for-the-badge&color=FF0000&labelColor=000000" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/KingsSoft-GyanHK?label=Followers&style=for-the-badge&color=FF0000&labelColor=000000" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=KingsSoft-GayanHK&label=Profile%20views&style=for-the-badge&color=FF0000&labelColor=000000" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/KingsSoft-GayanHK?label=Followers&style=for-the-badge&color=FF0000&labelColor=000000" alt="Followers" />
   <img src="https://img.shields.io/badge/Focus-Creative%20Code%20%2B%20Full--Stack%20Development-20B2AA?style=for-the-badge&labelColor=000000" alt="Focus" />
 </div>
 
@@ -71,15 +71,15 @@ const Gayan = {
 <tr border="none">
 <td width="50%" align="center">
   
-  <img align="center" src="https://github-readme-stats-nu-olive-67.vercel.app/api?username=KingsSoft-GyanHK&show_icons=true&count_private=true&hide_border=true&title_color=FFD700&text_color=20B2AA&icon_color=48CAE4&bg_color=0d1117&rank_icon=github" />
+  <img align="center" src="https://github-readme-stats-nu-olive-67.vercel.app/api?username=KingsSoft-GayanHK&show_icons=true&count_private=true&hide_border=true&title_color=FFD700&text_color=20B2AA&icon_color=48CAE4&bg_color=0d1117&rank_icon=github" />
   <br></br>
-  <img title="🔥 Get streak stats for your profile" alt="KingsSoft-GyanHK streak" src="https://github-readme-streak-stats.herokuapp.com/?user=KingsSoft-GyanHK&hide_border=true&ring=FFD700&fire=FFD700&currStreakLabel=20B2AA&sideLabels=48CAE4&currStreakNum=FFD700&sideNums=20B2AA&background=0d1117" /> 
+  <img title="🔥 Get streak stats for your profile" alt="KingsSoft-GayanHK streak" src="https://github-readme-streak-stats.herokuapp.com/?user=KingsSoft-GayanHK&hide_border=true&ring=FFD700&fire=FFD700&currStreakLabel=20B2AA&sideLabels=48CAE4&currStreakNum=FFD700&sideNums=20B2AA&background=0d1117" /> 
 </td>
 
 <td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats-nu-olive-67.vercel.app/api/top-langs/?username=KingsSoft-GyanHK&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=FFD700&text_color=20B2AA&bg_color=0d1117&langs_count=8" />
+  <img align="center" src="https://github-readme-stats-nu-olive-67.vercel.app/api/top-langs/?username=KingsSoft-GayanHK&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=FFD700&text_color=20B2AA&bg_color=0d1117&langs_count=8" />
   <br></br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KingsSoft-GyanHK&bg_color=0d1117&color=20B2AA&line=48CAE4&point=FFD700&area=true&hide_border=true&custom_title=Gayan's%20Contribution%20Graph&title_color=FFD700&radius=16" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KingsSoft-GayanHK&bg_color=0d1117&color=20B2AA&line=48CAE4&point=FFD700&area=true&hide_border=true&custom_title=Gayan's%20Contribution%20Graph&title_color=FFD700&radius=16" width="100%"/>
 </td>
 </tr>
 </table>
