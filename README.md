@@ -6,7 +6,7 @@
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=150&section=header&color=0:FF0000,100:8B0000&text=Hi%20I'm%20Gayan%20Hasantha&fontColor=FFFFFF&fontSize=50&fontAlign=50&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=150&section=header&color=0:FF0000,100:8B0000&text=Hi%20I'm%20Gayan&fontColor=FFFFFF&fontSize=50&fontAlign=50&animation=fadeIn" />
 </div>
 
 <h3 align="center" style="color:#FF0000;">Code. Create. Innovate.</h3>
