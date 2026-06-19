@@ -35,9 +35,9 @@
 
 ```javascript
 const Gayan = {
-    name: "Gayan Hasantha",
-    location: "Kandy, Sri Lanka",
-    email: "Gayanhasantha999@gmail.com",
+    name: "Gayan",
+    location: "Sri Lanka",
+    email: "gayanhasantha999@gmail.com",
     phone: "+94740919717",
     code: ["JavaScript","TypeScript", "Python", "Java", "C#", "Dart", "C++"],
     askMeAbout: ["web dev", "mobile dev", "DevOps", "IOT", "AI/ML", "ui/ux design"],
