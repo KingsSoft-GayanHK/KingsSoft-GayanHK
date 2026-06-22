@@ -26,8 +26,8 @@
 </div>
 
 <div align="center" style="margin-top:10px;">
-  <img src="https://komarev.com/ghpvc/?username=KingsSoft-GayanHK&label=Profile%20views&style=for-the-badge&color=FF0000&labelColor=000000" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/KingsSoft-GayanHK?label=Followers&style=for-the-badge&color=FF0000&labelColor=000000" alt="Followers" />
+  <img src="https://img.shields.io/badge/Profile%20Views-102K-FF0000?style=for-the-badge&labelColor=000000" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Followers-43.2K-FF0000?style=for-the-badge&labelColor=000000" alt="Followers" />
   <img src="https://img.shields.io/badge/Focus-Creative%20Code%20%2B%20Full--Stack%20Development-20B2AA?style=for-the-badge&labelColor=000000" alt="Focus" />
 </div>
 
