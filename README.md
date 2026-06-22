@@ -56,7 +56,7 @@ const Gayan = {
         "Microservices"
     ],
     currentFocus: "Building scalable mobile and web applications",
-    funFact: "There are 10 types of people in the world: those who understand binary, and those who don't 😄"
+    funFact: "There are 2 types of people in the world: those who understand binary, and those who don't 😄"
 };
 ```
 
