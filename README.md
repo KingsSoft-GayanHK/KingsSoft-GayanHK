@@ -1,7 +1,7 @@
 <!-- Background Image -->
-<div align="center">
+<!--<div align="center">
   <img src="3.jpg" alt="Profile Background" width="100%" style="border-radius: 15px; margin: 20px 0;"/>
-</div>
+</div>-->
 
 <br>
 
